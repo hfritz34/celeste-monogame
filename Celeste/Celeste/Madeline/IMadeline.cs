@@ -3,12 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.Xna.Framework.Graphics;
 
 namespace Celeste.Madeline
 {
-    internal interface IMadeline
+    public interface IMadeline
     {
-      //adadadadadadadad
+
+        public void update(Game1 game);
+
+        public void draw(SpriteBatch sprtieBatch);
         
     }
 }
