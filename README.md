@@ -1,4 +1,4 @@
-# Team Strawberry — Celeste
+# Celeste 
 
 ![Gameplay: a full clear of the first room with a jump, an up-right dash, a dash across the gap and an up-dash out the top](docs/media/gameplay.gif)
 
