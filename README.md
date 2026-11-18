@@ -1,5 +1,15 @@
 # Team Strawberry — Celeste
 
+![Gameplay: a full clear of the first room with a jump, an up-right dash, a dash across the gap and an up-dash out the top](docs/media/gameplay.gif)
+
+A Celeste-inspired platformer built in C# with MonoGame by a team of six for Ohio State's CSE 3902. The focus is movement feel: jumps, eight-direction dashes, wall kicks and climbing, springs, feathers, collectibles and a rewind mechanic.
+
+**Henry's part:** movement feel and feedback, including wall and super wall jumps, dash trail particles, landing and wall-kick dust, the snow background, FlyFeather / StarFly flight, and rewind snapshots for the new states.
+
+**Run it:** install the [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0), then `cd Celeste/Celeste && dotnet run`.
+
+*Non-commercial student project. Celeste and its characters, art and music belong to Maddy Makes Games / Extremely OK Games.*
+
 **Group:** Strawberry
 **Members:** Aaron, Henry, Isaac, Albert, Sihao, Zijun
 **Framework:** C# · MonoGame 3.8 · .NET 8.0
